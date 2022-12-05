@@ -1,7 +1,7 @@
 [package]
 name = "microbin"
 version = "1.2.1"
-edition = "2022"
+edition = "2021"
 authors = ["Alexis Vézina"]
 license = "BSD-3-Clause"
 description = "Simple, performant, configurable, entirely self-contained Pastebin and URL shortener. Forked to try adding PowerShell to Syntax Highlighting options"
